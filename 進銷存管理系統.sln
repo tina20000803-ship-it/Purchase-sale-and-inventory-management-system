@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36717.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "進銷存管理系統", "銷貨管理系統\進銷存管理系統.csproj", "{576219EC-3C71-4515-95A1-442737DAE93F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{576219EC-3C71-4515-95A1-442737DAE93F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{576219EC-3C71-4515-95A1-442737DAE93F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{576219EC-3C71-4515-95A1-442737DAE93F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{576219EC-3C71-4515-95A1-442737DAE93F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C88763F8-8467-43C0-8A41-6D44296D3862}
+	EndGlobalSection
+EndGlobal
